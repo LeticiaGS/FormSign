@@ -1,10 +1,8 @@
 # Projeto formulário de SignIn
 
+Para ver o projeto ao vivo, [clique aqui](https://leticiags.github.io/FormSign/).
+
 ![Projeto Preview Sign In](https://github.com/LeticiaGS/FormSign/blob/master/img/project-preview.png?raw=true)
-
-![Project Preview Sign Up](https://github.com/LeticiaGS/FormSign/blob/master/img/project-preview-signUp.png?raw=true)
-
-![Project Preview Reset Password](https://github.com/LeticiaGS/FormSign/blob/master/img/project-preview-reset.png?raw=true)
 
 Esse projeto foi realizado durante o curso Frontstart com o objetivo de treinar : html e css voltado para formulários.
 
